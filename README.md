@@ -1,36 +1,19 @@
+![Build status](https://travis-ci.com/josenberg/advanced-legacy-builder.svg?branch=master)
+
 # advanced-legacy-builder
 
-FIXME: description
+This, in the future will be your legacy builder;
+
+The main reason for building the project is that jekyll is to bloated, hugo is weird and none of them are in Lisp;
 
 ## Installation
 
-Download from http://example.com/FIXME.
+There is nothing to install yet.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar advanced-legacy-builder-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+The dream will be running this as a script and having my website builded on the end; luckily without any mistakes. 
 
 ## License
 
-Copyright © 2019 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Copyright? Nah; More like GNU GPLv3 just do not compile and sell this stuff.
